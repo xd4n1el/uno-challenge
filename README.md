@@ -54,3 +54,9 @@ REACT_APP_GRAPHQL_URI=http://localhost:4000/graphql
 Esse projeto deverá ser feito um fork dele, que já irá aparecer em seu github para que você nos envie e possamos baixar para analisar o código desenvolvido. 
 
 Lembre-se de deixar seu repositório público.
+
+## Recomendações Fork Pessoal
+
+Compile o código antes de utilizar para garantir uma experiência aprimorada:
+ frontend: yarn build e na sequencia yarn start (recomendação node 20+)
+ backend: yarn build e na sequencia yarn production
